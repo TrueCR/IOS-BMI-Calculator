@@ -1,8 +1,9 @@
 ﻿<Properties StartupConfiguration="{DE9829A3-2FB6-4F98-BA3B-51643FEA71AE}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="BMICalculator/Main.storyboard">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BMICalculator/ViewController.cs">
     <Files>
       <File FileName="BMICalculator/AppDelegate.cs" Line="1" Column="1" />
       <File FileName="BMICalculator/Main.storyboard" />
+      <File FileName="BMICalculator/ViewController.cs" Line="1" Column="14" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
