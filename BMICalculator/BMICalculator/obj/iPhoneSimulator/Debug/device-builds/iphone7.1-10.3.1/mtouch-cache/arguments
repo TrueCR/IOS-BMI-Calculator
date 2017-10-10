@@ -1,0 +1,35 @@
+# Version: 10.12.0.20 (d15-3: 80b8487d)
+# [first argument, ignore] # --cache
+/Library/Frameworks/Xamarin.iOS.framework/Versions/10.12.0.20/lib/mtouch/mtouch.exe \
+	/Users/tylerg12/Desktop/Repos/IOS-BMI-Calculator/BMICalculator/BMICalculator/obj/iPhoneSimulator/Debug/device-builds/iphone7.1-10.3.1/mtouch-cache \
+	--sim \
+	/Users/tylerg12/Desktop/Repos/IOS-BMI-Calculator/BMICalculator/BMICalculator/bin/iPhoneSimulator/Debug/device-builds/iphone7.1-10.3.1/BMICalculator.app \
+	--executable \
+	BMICalculator \
+	--debug \
+	--nolink \
+	--sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--sdk \
+	10.3 \
+	--targetver \
+	9.1 \
+	--aot-options=-O=-float32 \
+	--http-message-handler=HttpClientHandler \
+	--abi=x86_64 \
+	--symbollist \
+	/Users/tylerg12/Desktop/Repos/IOS-BMI-Calculator/BMICalculator/BMICalculator/obj/iPhoneSimulator/Debug/device-builds/iphone7.1-10.3.1/mtouch-symbols.list \
+	--dsym=no \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
+	--target-framework \
+	"Xamarin.iOS,v1.0" \
+	/Users/tylerg12/Desktop/Repos/IOS-BMI-Calculator/BMICalculator/BMICalculator/bin/iPhoneSimulator/Debug/BMICalculator.exe \
