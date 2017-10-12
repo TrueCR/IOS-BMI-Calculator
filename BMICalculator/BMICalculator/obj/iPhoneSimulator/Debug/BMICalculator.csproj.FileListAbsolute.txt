@@ -1,9 +1,0 @@
-/Users/tylerg12/Desktop/Repos/IOS-BMI-Calculator/BMICalculator/BMICalculator/bin/iPhoneSimulator/Debug/BMICalculator.exe
-/Users/tylerg12/Desktop/Repos/IOS-BMI-Calculator/BMICalculator/BMICalculator/bin/iPhoneSimulator/Debug/BMICalculator.pdb
-/Users/tylerg12/Desktop/Repos/IOS-BMI-Calculator/BMICalculator/BMICalculator/obj/iPhoneSimulator/Debug/BMICalculator.csproj.CoreCompileInputs.cache
-/Users/tylerg12/Desktop/Repos/IOS-BMI-Calculator/BMICalculator/BMICalculator/obj/iPhoneSimulator/Debug/BMICalculator.exe
-/Users/tylerg12/Desktop/Repos/IOS-BMI-Calculator/BMICalculator/BMICalculator/obj/iPhoneSimulator/Debug/BMICalculator.pdb
-/Users/tylerg12/Desktop/Repos/IOS-BMI-Calculator/BMICalculator/BMICalculator/obj/iPhoneSimulator/Debug/device-builds/iphone7.1-10.3.1/ibtool/_BundleResourceWithLogicalName.items
-/Users/tylerg12/Desktop/Repos/IOS-BMI-Calculator/BMICalculator/BMICalculator/obj/iPhoneSimulator/Debug/device-builds/iphone7.1-10.3.1/actool/_PartialAppManifest.items
-/Users/tylerg12/Desktop/Repos/IOS-BMI-Calculator/BMICalculator/BMICalculator/obj/iPhoneSimulator/Debug/device-builds/iphone7.1-10.3.1/actool/_BundleResourceWithLogicalName.items
-/Users/tylerg12/Desktop/Repos/IOS-BMI-Calculator/BMICalculator/BMICalculator/obj/iPhoneSimulator/Debug/device-builds/iphone7.1-10.3.1/optimized/

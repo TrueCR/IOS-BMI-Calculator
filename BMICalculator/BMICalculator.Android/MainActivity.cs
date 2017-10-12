@@ -4,24 +4,35 @@ using Android.OS;
 
 namespace BMICalculator.Android
 {
-    [Activity(Label = "BMICalculator", MainLauncher = true, Icon = "@mipmap/icon")]
+    [Activity (Label = "BMICalculator.Android", MainLauncher = true, Icon = "@mipmap/icon")]
     public class MainActivity : Activity
     {
-        int count = 1;
+        Button calculateButton;
+        TextView resultTextView;
+        EditText heightEditText, weightEditText;
 
-        protected override void OnCreate(Bundle savedInstanceState)
+        protected override void OnCreate (Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
-
-            // Set our view from the "main" layout resource
+            // Set our view from "main" layout resource
             SetContentView(Resource.Layout.Main);
 
-            // Get our button from the layout resource,
-            // and attach an event to it
-            Button button = FindViewById<Button>(Resource.Id.myButton);
+            calculateButton = FindViewById<Button>(BMICalculator.Android.Resource.Id.calculateButton);
+            resultTextView = FindViewById<TextView>(BMICalculator.Android.Resource.Id.resultTextView);
+            heightEditText = FindViewById<EditText>(BMICalculator.Android.Resource.Id.heightEditText);
+            weightEditText = FindViewById<EditText>(BMICalculator.Android.Resource.Id.weightEditText);
 
-            button.Click += delegate { button.Text = $"{count++} clicks!"; };
+            calculateButton.Click += CalculateButton_Click;
+        }
+
+        void CalculateButton_Click (object sender, System.EventArgs e)
+        {
+            float height = float.Parse(heightEditText.Text);
+            float weight = float.Parse(weightEditText.Text);
+
+            float bmi = (weight / (height * height));
+
+            resultTextView.Text = bmi.ToString();
         }
     }
-}
-
+}                       

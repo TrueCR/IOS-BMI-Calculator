@@ -1,0 +1,17 @@
+/Users/tylerg12/Desktop/Repos/IOS-BMI-Calculator/BMICalculator/BMICalculator.Android/bin/Debug/BMICalculator.Android.dll
+/Users/tylerg12/Desktop/Repos/IOS-BMI-Calculator/BMICalculator/BMICalculator.Android/bin/Debug/BMICalculator.Android.pdb
+/Users/tylerg12/Desktop/Repos/IOS-BMI-Calculator/BMICalculator/BMICalculator.Android/bin/Debug/com.companyname.BMICalculator.apk
+/Users/tylerg12/Desktop/Repos/IOS-BMI-Calculator/BMICalculator/BMICalculator.Android/bin/Debug/com.companyname.BMICalculator-Signed.apk
+/Users/tylerg12/Desktop/Repos/IOS-BMI-Calculator/BMICalculator/BMICalculator.Android/obj/Debug/BMICalculator.Android.csproj.CoreCompileInputs.cache
+/Users/tylerg12/Desktop/Repos/IOS-BMI-Calculator/BMICalculator/BMICalculator.Android/obj/Debug/BMICalculator.Android.dll
+/Users/tylerg12/Desktop/Repos/IOS-BMI-Calculator/BMICalculator/BMICalculator.Android/obj/Debug/BMICalculator.Android.pdb
+/Users/tylerg12/Desktop/Repos/IOS-BMI-Calculator/BMICalculator/BMICalculator.Android/obj/Debug/android/bin/com.companyname.BMICalculator.apk
+/Users/tylerg12/Desktop/Repos/IOS-BMI-Calculator/BMICalculator/BMICalculator.Android/obj/Debug/res/layout/main.xml
+/Users/tylerg12/Desktop/Repos/IOS-BMI-Calculator/BMICalculator/BMICalculator.Android/obj/Debug/res/values/strings.xml
+/Users/tylerg12/Desktop/Repos/IOS-BMI-Calculator/BMICalculator/BMICalculator.Android/obj/Debug/res/mipmap-hdpi/icon.png
+/Users/tylerg12/Desktop/Repos/IOS-BMI-Calculator/BMICalculator/BMICalculator.Android/obj/Debug/res/mipmap-mdpi/icon.png
+/Users/tylerg12/Desktop/Repos/IOS-BMI-Calculator/BMICalculator/BMICalculator.Android/obj/Debug/res/mipmap-xhdpi/icon.png
+/Users/tylerg12/Desktop/Repos/IOS-BMI-Calculator/BMICalculator/BMICalculator.Android/obj/Debug/res/mipmap-xxhdpi/icon.png
+/Users/tylerg12/Desktop/Repos/IOS-BMI-Calculator/BMICalculator/BMICalculator.Android/obj/Debug/res/mipmap-xxxhdpi/icon.png
+/Users/tylerg12/Desktop/Repos/IOS-BMI-Calculator/BMICalculator/BMICalculator.Android/obj/Debug/R.cs.flag
+/Users/tylerg12/Desktop/Repos/IOS-BMI-Calculator/BMICalculator/BMICalculator.Android/obj/Debug/uploadflags.txt

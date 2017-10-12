@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{CD7AEED8-0B4F-40FB-A003-9EE092E3D07C}|Default">
-  <MonoDevelop.Ide.ItemProperties.BMICalculator.Android AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.SelectDevice" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BMICalculator.Android AndroidDesignerPreferredDevice="Nexus 6" PreferredExecutionTarget="Android.Nexus_6_API_25" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BMICalculator.Android/MainActivity.cs">
     <Files>
-      <File FileName="BMICalculator.Android/MainActivity.cs" Line="12" Column="18" />
+      <File FileName="BMICalculator.Android/MainActivity.cs" Line="13" Column="9" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
