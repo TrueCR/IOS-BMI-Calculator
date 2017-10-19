@@ -1,4 +1,0 @@
-BMICalculator.Android.MainActivity, BMICalculator.Android;md539cfc3321b838687090e835abc5a2313.MainActivity
-BMICalculator.Android.MainActivity, BMICalculator.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md539cfc3321b838687090e835abc5a2313.MainActivity
-BMICalculator.Android.MainActivity;md539cfc3321b838687090e835abc5a2313.MainActivity
-bmicalculator.android.MainActivity;md539cfc3321b838687090e835abc5a2313.MainActivity
